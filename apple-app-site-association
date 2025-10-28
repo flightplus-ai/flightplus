@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "FFXZ4C279L.com.FlightPlus.FlightPlus",
+        "paths": [
+          "/share/*"
+        ]
+      }
+    ]
+  }
+}
+
