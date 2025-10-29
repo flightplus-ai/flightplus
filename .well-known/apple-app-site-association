@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "FFXZ4C279L.com.FlightPlus.FlightPlus",
+        "appID": "FFXZ4C279L.FlightPlus.FlightPlus",
         "paths": [
           "/share/*"
         ]
